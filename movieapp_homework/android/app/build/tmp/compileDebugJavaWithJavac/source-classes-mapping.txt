@@ -1,0 +1,14 @@
+com/week_4/ReactNativeFlipper.java
+ com.week_4.ReactNativeFlipper
+ com.week_4.ReactNativeFlipper$1
+ com.week_4.ReactNativeFlipper$2
+ com.week_4.ReactNativeFlipper$2$1
+com/week_4/BuildConfig.java
+ com.week_4.BuildConfig
+com/week_4/MainApplication.java
+ com.week_4.MainApplication
+ com.week_4.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/week_4/MainActivity.java
+ com.week_4.MainActivity
